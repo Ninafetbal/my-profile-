@@ -6,36 +6,28 @@ body {
 	background-color: #F08FC0;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
-
 }
 
 h1 {font-family: Forte;
 	font-size: 35 px;
 	color: #AE00FB;
 	letter-spacing: 5px;
-
-
 } 
 
 h2 {font-family: Roberto;
 font-size: 30px;
 color: #AE00FB;
-
 }
+
 a {color: #2D46B9;
 text-decoration: none;
-
 }
-a:hover{color:  #FC92E3}
 
+a:hover{color:  #FC92E3}
 
 i {
 font-size: 40px;
-
 }
-
-
-
 
 .card-white{
 	background-color: white;
@@ -74,7 +66,7 @@ border-radius: 4px;
 	list-style: "\1F929";
 }
 
-.list-pro {
+#list-pro {
 	list-style: "\1F4DD";
 }
 
