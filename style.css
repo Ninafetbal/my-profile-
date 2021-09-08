@@ -67,7 +67,15 @@ border-radius: 4px;
 }
 
 .list-inline {
-	list-style: "\";
+	list-style: "\1F393";
+}
+
+.list-inter {
+	list-style: "\1F929";
+}
+
+.list-pro {
+	list-style: "\1F4DD";
 }
 
 .container{
@@ -91,3 +99,6 @@ border-radius: 4px;
 /*Phones : @media (max-width:768px){width: 400px}
 Tablets : @media (max-width: 992px) width: 750px}
 
+/* 1F929
+1F5D2
+1F4DD
